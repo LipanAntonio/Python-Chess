@@ -1,3 +1,3 @@
 # Python-Chess
 
-Acesta este proiectul meu pentru licenta, a fost scris in python folosind biblioteca pygame si este un joc de sah cu toate functionalitatile prezente
+My bachelor's degree project. A chess application written in Python, using the pygame library for visual representation. It also has implementation for move-finding algorithms and the possibility of playing against them.
